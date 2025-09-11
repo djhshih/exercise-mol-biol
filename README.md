@@ -41,9 +41,9 @@ questions:
 
 Design experiments to show that p53 regulates p21 in *TP53* wildtype glioblastoma. Collectively, the experiments must show that:
 
-a) TP53 binds to the promoter of p21
-b) TP53 binding to p21 promoter causes changes in expression
-c) Disruption of p53 disrupts p21 expression in glioblastoma
+- TP53 binds to the promoter of p21
+- TP53 binding to p21 promoter causes changes in expression
+- Disruption of p53 disrupts p21 expression in glioblastoma
 
 
 ## Scenario D
