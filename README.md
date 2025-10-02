@@ -18,7 +18,7 @@ You expect to see three phases in the tube.
 
 Satoru Kyo, Masahiro Takakura, Takahiro Taira, Taro Kanaya, Hideaki Itoh, Masuo Yutsudo, Hiroyoshi Ariga, Masaki Inoue, Sp1 cooperates with c-Myc to activate transcription of the human telomerase reverse transcriptase gene (hTERT), Nucleic Acids Research, Volume 28, Issue 3, 1 February 2000, Pages 669–677, https://doi.org/10.1093/nar/28.3.669
 
-Explain how specific results in Satoru *et al.* 2000 answer the following
+Explain how **specific results from figures** in Satoru *et al.* 2000 answer the following
 questions:
 
 1. Is the E-box downstream of the TERT transcription start site absolutely required 
