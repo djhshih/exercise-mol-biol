@@ -1,18 +1,17 @@
 # Exercises for Molecular Biology
 
+Submit your answers with the questions included as a PDF file (3 pages max).
+
 ## Scenario A
 
 A ovarian cancer sample (100 mg) was homogenized in 1 mL of TRIZOL reagent in a
 1.5 mL tube. After adding 0.2 mL volume of chloroform, the tube was vortexed, 
-incubated, and centrifuged at 12,000g for 15 min.
-A total of three phases are now visible in the tube.
+incubated, and centrifuged at 200g for 15 min.
+You expect to see three phases in the tube.
 
 1. Which phase contains the RNA? Which phase contain protein? Why?
 
 2. How can RNA be extracted from here?
-
-3. Describe the steps after RNA extraction to make a mRNA library for
-   sequencing.
 
 
 ## Scenario B
@@ -22,9 +21,8 @@ Satoru Kyo, Masahiro Takakura, Takahiro Taira, Taro Kanaya, Hideaki Itoh, Masuo 
 Explain how specific results in Satoru *et al.* 2000 answer the following
 questions:
 
-1. Is the E-box downstream of the TERT transcription start site required 
+1. Is the E-box downstream of the TERT transcription start site absolutely required 
    for TERT transcription?
-   What about the upstream E-box?
 
 2. Is the downstream E-box sufficient for TERT transcription?
 
