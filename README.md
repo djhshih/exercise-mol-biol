@@ -7,7 +7,7 @@ Submit your answers with the questions included as a PDF file (3 pages max).
 A ovarian cancer sample (100 mg) was homogenized in 1 mL of TRIZOL reagent in a
 1.5 mL tube. After adding 0.2 mL volume of chloroform, the tube was vortexed, 
 incubated, and centrifuged at 200g for 15 min.
-You expect to see three phases in the tube.
+You did not see three phases in the tube.
 
 1. Which phase contains the RNA? Which phase contain protein? Why?
 
