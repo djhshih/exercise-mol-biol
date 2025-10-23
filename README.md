@@ -46,5 +46,5 @@ Design experiments to show that p53 regulates p21 in *TP53* wildtype glioblastom
 
 ## Scenario D
 
-Write a clear and concise 1-page protocol for thawing OVCAR-3 cells and to freeze additional vials of cells down. Include enough details of all required reagents, such as the medium, as well as specific pipetting volumes. Assume that we use T75 flask for passaging and 10 cm plates for harvest.
+Write a clear and concise 1-page protocol for thawing OVCAR-3 cells and to freeze additional vials of cells down. Include enough details of all required reagents, such as the medium, as well as specific pipetting volumes. Include a volumetric recipe of the complete medium. Assume that we use T75 flask for passaging and 10 cm plates for harvest.
 
